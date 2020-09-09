@@ -1,0 +1,2 @@
+# snippets-javascript
+Small functions
