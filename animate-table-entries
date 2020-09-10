@@ -1,5 +1,6 @@
 // loops through tr's and determine the next range of "fit" indexes to display
 // max is the expected number of tr minus the heading tr.
+// uses jquery.
       function animatePutaway(max) {
         max = max + 1;
         var fit = 13;
